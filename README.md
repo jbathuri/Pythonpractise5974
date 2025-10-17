@@ -1,2 +1,1 @@
-# Pythonpractise5974
-daily practise training
+python practise coding problems q/a - medium level
