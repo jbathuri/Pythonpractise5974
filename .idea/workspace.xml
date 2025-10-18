@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56fb1c5d-7be6-4863-a61b-778f8396dcbf" name="Changes" comment="" />
+    <list default="true" id="56fb1c5d-7be6-4863-a61b-778f8396dcbf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/STRINGOPERATION.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STRINGRANDOM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typicalexample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +54,7 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.STRINGRANDOM.executor": "Run",
     "Python.even-or-odd.executor": "Run",
     "Python.factorial.executor": "Run",
     "Python.firstexample.executor": "Run",
@@ -57,12 +63,14 @@
     "Python.main.executor": "Run",
     "Python.print1-10while.executor": "Run",
     "Python.python-coding-problems-1.executor": "Run",
+    "Python.randomstring.executor": "Run",
     "Python.rect-class.executor": "Run",
+    "Python.typicalexample.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
@@ -84,7 +92,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9c991c92-411c-4c6b-b3e4-cf363cf71632" name="Changes" comment="" />
+      <changelist id="56fb1c5d-7be6-4863-a61b-778f8396dcbf" name="Changes" comment="" />
       <created>1760334983901</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -94,6 +102,7 @@
       <workItem from="1760423061097" duration="1074000" />
       <workItem from="1760439178419" duration="2736000" />
       <workItem from="1760444555262" duration="1537000" />
+      <workItem from="1760778441924" duration="4008000" />
     </task>
     <task id="LOCAL-00001" summary="few coding questions updated">
       <option name="closed" value="true" />
@@ -148,13 +157,16 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonpractise$firstexample.coverage" NAME="firstexample Coverage Results" MODIFIED="1760441868088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonpractise$factorial.coverage" NAME="factorial Coverage Results" MODIFIED="1760442468074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonpractise$even_or_odd.coverage" NAME="even-or-odd Coverage Results" MODIFIED="1760442163247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonpractise$listmaxmin.coverage" NAME="listmaxmin Coverage Results" MODIFIED="1760445405705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonpractise$print1_10while.coverage" NAME="print1-10while Coverage Results" MODIFIED="1760442305196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonpractise$fizzbuzz.coverage" NAME="fizzbuzz Coverage Results" MODIFIED="1760445070374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonpractise$main.coverage" NAME="main Coverage Results" MODIFIED="1760443444037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonpractise$python_coding_problems_1.coverage" NAME="python-coding-problems-1 Coverage Results" MODIFIED="1760443461005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonpractise$rect_class.coverage" NAME="rect-class Coverage Results" MODIFIED="1760446102715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonpractise$randomstring.coverage" NAME="randomstring Coverage Results" MODIFIED="1760779551903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonpractise$factorial.coverage" NAME="factorial Coverage Results" MODIFIED="1760442468074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonpractise$typicalexample.coverage" NAME="typicalexample Coverage Results" MODIFIED="1760782648290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonpractise$even_or_odd.coverage" NAME="even-or-odd Coverage Results" MODIFIED="1760442163247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonpractise$print1_10while.coverage" NAME="print1-10while Coverage Results" MODIFIED="1760442305196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonpractise$STRINGRANDOM.coverage" NAME="STRINGRANDOM Coverage Results" MODIFIED="1760780945983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
